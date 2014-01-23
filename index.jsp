@@ -2,7 +2,7 @@
 <html lang="en">  
 <head>  
 	<meta charset="utf-8">  
-	<title>Eceptivity - A positive community</title>  
+	<title>2014 Eceptivity - A positive community</title>  
 	<meta name="description" content="Eceptivity">  
 	<meta name="author" content="SitePoint">  
 	<link rel="stylesheet" href="css/reset.css">  
